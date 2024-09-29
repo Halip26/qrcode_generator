@@ -25,7 +25,7 @@ made by [Halip26](https://halip26.github.io/)
 
 ### Screenshot/png showing the sample use of the script
 
-![QR code Output](output/url_qrcode.png)
+![QR code Output](url_qrcode.png)
 
 ### LICENSE
 
